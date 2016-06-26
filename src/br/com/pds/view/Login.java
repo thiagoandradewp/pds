@@ -53,7 +53,7 @@ public class Login extends javax.swing.JFrame {
             }
         });
 
-        jLabel4.setText("SISTEMA DE LAVA JATO");
+        jLabel4.setText("SISTEMA DE LAVA JATO 1.0");
 
         javax.swing.GroupLayout jPanel1Layout = new javax.swing.GroupLayout(jPanel1);
         jPanel1.setLayout(jPanel1Layout);
@@ -70,7 +70,7 @@ public class Login extends javax.swing.JFrame {
                         .addComponent(txtSenha)))
                 .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
             .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel1Layout.createSequentialGroup()
-                .addContainerGap(149, Short.MAX_VALUE)
+                .addContainerGap(126, Short.MAX_VALUE)
                 .addComponent(jLabel4)
                 .addGap(144, 144, 144))
         );
